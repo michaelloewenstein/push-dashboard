@@ -6,8 +6,7 @@
   "env": {
     "browser": true,
     "node": true,
-    "jquery": true,
-    "es6": true
+    "jquery": true
   },
   "rules": {
     "quotes": 0,
@@ -21,5 +20,8 @@
   "globals": {
     "jQuery": true,
     "$": true
-  }
+  },
+  "plugins": [
+    "react"
+  ]
 }
