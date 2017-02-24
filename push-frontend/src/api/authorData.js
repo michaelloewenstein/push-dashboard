@@ -3,6 +3,11 @@ module.exports = {
     [{
         id: 'asd',
         firstName: 'ma',
-        lastName: 'asdsd'
+        lastName: 'sd'
+    },
+    {
+        id: 'asd2',
+        firstName: 'ma2',
+        lastName: 'sd2'
     }]
 }
